@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Расписание УГАТУ</string>
+    <string name="facultet">Факультет</string>
+    <string name="kurs">Курс</string>
+    <string name="group">Группа</string>
+    <string name="saveOptions">Сохранить</string>
+    <string name="Raspisanie">Расписание</string>
+    <string name="Notes">Заметки</string>
+    <string name="Settings">Настройки</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="description_hint">Введите оприсание сюда</string>
+    <string name="empty_note_message">Заметка не может быть пустой</string>
+    <string name="successfully_saved_note_message">Запись сохранена</string>
+    <string name="cannot_connect_to_camera_message">Невозможно подключится к камере</string>
+    <string name="take_picture">Добавить изображение</string>
+    <string name="take_picture_error">евозможно получить изображение с камеры</string>
+    <string name="no_data">Нет данных</string>
+    <string name="loading">Загрузка</string>
+    <string name="content_settings">Выбор группы</string>
+    <string name="delete">Удалить</string>
+    <string name="loadAllString">Загрузить весь семестр</string>
+</resources>

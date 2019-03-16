@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Lecture">#00b0ff</color>
+    <color name="Labaratory">#b6b6f6</color>
+    <color name="Practice">#ff9100</color>
+    <color name="LectureAndPractice">#00a981</color>
+    <color name="Razdel">#cfcfcf</color>
+    <color name="White">#ffffff</color>
+</resources>
